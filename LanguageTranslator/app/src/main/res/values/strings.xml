@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+    <string name="word_apple">Apple</string>
+    <string name="word_banana">Banana</string>
+    <string name="word_queen">Queen</string>
+    <string name="word_lion">Lion</string>
+    <string name="word_elephant">Elephant</string>
+    <string name="word_mango">Mango</string>
+    <string name="word_umbrella">Umbrella</string>
+    <string name="word_nest">Nest</string>
+
+</resources>

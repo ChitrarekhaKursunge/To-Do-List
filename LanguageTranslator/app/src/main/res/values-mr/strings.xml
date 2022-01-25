@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Translator</string>
+    <string name="word_apple">सफरचंद</string>
+    <string name="word_banana">केळे</string>
+    <string name="word_queen">राणी</string>
+    <string name="word_lion">सिंह</string>
+    <string name="word_elephant">हत्ती</string>
+    <string name="word_mango">आंबा</string>
+    <string name="word_umbrella">छत्री</string>
+    <string name="word_nest">घरटे</string>
+</resources>

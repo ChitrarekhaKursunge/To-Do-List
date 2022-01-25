@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "319322762270",
+    "firebase_url": "https://sep-android-15e4a-default-rtdb.firebaseio.com",
+    "project_id": "sep-android-15e4a",
+    "storage_bucket": "sep-android-15e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319322762270:android:8229485a87d70fdbef120f",
+        "android_client_info": {
+          "package_name": "com.firstaap.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319322762270-kk2nmvhgat2f0cci2rem2qo4nd4r6sb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kz0DS3ZQyxZ5pynag83qZWkCKmoKCcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319322762270-kk2nmvhgat2f0cci2rem2qo4nd4r6sb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319322762270:android:75cf5bc7b5dbbdd7ef120f",
+        "android_client_info": {
+          "package_name": "com.firstaap.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319322762270-kk2nmvhgat2f0cci2rem2qo4nd4r6sb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kz0DS3ZQyxZ5pynag83qZWkCKmoKCcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319322762270-kk2nmvhgat2f0cci2rem2qo4nd4r6sb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
